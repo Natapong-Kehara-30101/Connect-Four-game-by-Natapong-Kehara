@@ -1,0 +1,6 @@
+{
+  "name": "Connect Four 8-Bit Retro",
+  "description": "เกม Connect Four (4 ตัวต่อแถว) สไตล์ 8-bit เรโทร เล่น 2 คน หรือแข่งกับ AI พร้อมระบบคะแนนและอนิเมชัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
